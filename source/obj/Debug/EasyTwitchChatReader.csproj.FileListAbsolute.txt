@@ -1,0 +1,7 @@
+D:\Guillaume-PC\Documents\Visual Studio Projects\EasyTwitchChatReader\EasyTwitchChatReader\bin\Debug\EasyTwitchChatReader.exe.config
+D:\Guillaume-PC\Documents\Visual Studio Projects\EasyTwitchChatReader\EasyTwitchChatReader\bin\Debug\EasyTwitchChatReader.exe
+D:\Guillaume-PC\Documents\Visual Studio Projects\EasyTwitchChatReader\EasyTwitchChatReader\bin\Debug\EasyTwitchChatReader.pdb
+D:\Guillaume-PC\Documents\Visual Studio Projects\EasyTwitchChatReader\EasyTwitchChatReader\obj\Debug\EasyTwitchChatReader.csprojAssemblyReference.cache
+D:\Guillaume-PC\Documents\Visual Studio Projects\EasyTwitchChatReader\EasyTwitchChatReader\obj\Debug\EasyTwitchChatReader.csproj.CoreCompileInputs.cache
+D:\Guillaume-PC\Documents\Visual Studio Projects\EasyTwitchChatReader\EasyTwitchChatReader\obj\Debug\EasyTwitchChatReader.exe
+D:\Guillaume-PC\Documents\Visual Studio Projects\EasyTwitchChatReader\EasyTwitchChatReader\obj\Debug\EasyTwitchChatReader.pdb
